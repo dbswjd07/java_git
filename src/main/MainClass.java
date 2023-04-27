@@ -10,7 +10,7 @@ public class MainClass {
 		while(true) {
 			System.out.println("1.로그인 기능");
 			System.out.println("2.회원 기능");
-			System.out.println("3.게시판 기능");
+			System.out.println("3.게시판 123123123 기능");
 			num = input.nextInt();
 			switch(num) {
 			case 1:break;
